@@ -1,0 +1,395 @@
+{
+    "Apple___Apple_scab": {
+        "symptoms": [
+            "Dark olive-green to black spots on leaf surface",
+            "Leaf deformation and premature leaf drop"
+        ],
+        "cause": "Fungal disease commonly associated with cool and moist conditions",
+        "risk": "High risk during prolonged rainfall and high humidity"
+    },
+    "Apple___Black_rot": {
+        "symptoms": [
+            "Circular brown lesions with concentric rings",
+            "Dry, shriveled leaf and fruit tissue"
+        ],
+        "cause": "Fungal infection affecting leaves and fruits",
+        "risk": "Spreads rapidly in warm and humid weather"
+    },
+    "Apple___Cedar_apple_rust": {
+        "symptoms": [
+            "Bright yellow-orange spots on leaves",
+            "Raised rust-like pustules on leaf underside"
+        ],
+        "cause": "Fungal disease involving alternate host plants",
+        "risk": "Higher risk during wet spring seasons"
+    },
+    "Apple___healthy": {
+        "symptoms": [
+            "Uniform green coloration",
+            "No visible lesions or discoloration"
+        ],
+        "cause": "Healthy plant tissue",
+        "risk": "No disease risk detected"
+    },
+    "Blueberry___healthy": {
+        "symptoms": [
+            "Healthy green leaves with smooth texture"
+        ],
+        "cause": "Healthy plant tissue",
+        "risk": "No disease risk detected"
+    },
+    "Cherry_including_sour___Powdery_mildew": {
+        "symptoms": [
+            "White powdery growth on leaf surface",
+            "Leaf curling and distortion"
+        ],
+        "cause": "Fungal infection forming powdery patches",
+        "risk": "High risk in warm and dry climates"
+    },
+    "Cherry_including_sour___healthy": {
+        "symptoms": [
+            "Bright green leaves without spots"
+        ],
+        "cause": "Healthy plant tissue",
+        "risk": "No disease risk detected"
+    },
+    "Corn_Healthy": {
+        "symptoms": [
+            "Green leaves with uniform texture"
+        ],
+        "cause": "Healthy plant tissue",
+        "risk": "No disease risk detected"
+    },
+    "Corn_Common_Rust": {
+        "symptoms": [
+            "Reddish-brown pustules scattered on leaves",
+            "Rust-like appearance"
+        ],
+        "cause": "Fungal infection producing rust pustules",
+        "risk": "High during cool and moist conditions"
+    },
+    "Corn_Blight": {
+        "symptoms": [
+            "Large elongated gray or brown lesions",
+            "Leaf drying from margins"
+        ],
+        "cause": "Fungal or bacterial leaf infection",
+        "risk": "Enhanced by warm and humid environments"
+    },
+    "Corn_Greay_Leaf_Spot": {
+        "symptoms": [
+            "Rectangular gray lesions between leaf veins"
+        ],
+        "cause": "Fungal leaf spot disease",
+        "risk": "High under prolonged leaf wetness"
+    },
+    "Corn_maize___Cercospora_leaf_spot_Gray_leaf_spot": {
+        "symptoms": [
+            "Narrow rectangular gray lesions",
+            "Lesions parallel to leaf veins"
+        ],
+        "cause": "Fungal leaf spot infection",
+        "risk": "Warm, humid weather increases spread"
+    },
+    "Corn_maize___Common_rust_": {
+        "symptoms": [
+            "Small brown pustules on leaf surface"
+        ],
+        "cause": "Fungal rust infection",
+        "risk": "Cool and moist weather conditions"
+    },
+    "Corn_maize___Northern_Leaf_Blight": {
+        "symptoms": [
+            "Long cigar-shaped gray lesions",
+            "Progressive leaf necrosis"
+        ],
+        "cause": "Fungal leaf blight disease",
+        "risk": "High during warm, humid seasons"
+    },
+    "Corn_maize___healthy": {
+        "symptoms": [
+            "Healthy green leaves with no visible damage"
+        ],
+        "cause": "Healthy plant tissue",
+        "risk": "No disease risk detected"
+    },
+    "Grape___Black_rot": {
+        "symptoms": [
+            "Brown circular lesions with dark margins",
+            "Shriveled leaf tissue"
+        ],
+        "cause": "Fungal infection affecting grape leaves",
+        "risk": "High during warm and wet weather"
+    },
+    "Grape___Esca_Black_Measles": {
+        "symptoms": [
+            "Dark irregular spots between leaf veins",
+            "Leaf scorching appearance"
+        ],
+        "cause": "Fungal trunk disease complex",
+        "risk": "Increases in older vines"
+    },
+    "Grape___Leaf_blight_Isariopsis_Leaf_Spot": {
+        "symptoms": [
+            "Brown angular leaf spots",
+            "Leaf yellowing around lesions"
+        ],
+        "cause": "Fungal leaf blight disease",
+        "risk": "Humid weather promotes infection"
+    },
+    "Grape___healthy": {
+        "symptoms": [
+            "Healthy green leaves without spots"
+        ],
+        "cause": "Healthy plant tissue",
+        "risk": "No disease risk detected"
+    },
+    "Orange___Haunglongbing_Citrus_greening": {
+        "symptoms": [
+            "Yellow blotchy mottling on leaves",
+            "Asymmetrical leaf discoloration"
+        ],
+        "cause": "Bacterial disease transmitted by insects",
+        "risk": "High in regions with citrus psyllids"
+    },
+    "Peach___Bacterial_spot": {
+        "symptoms": [
+            "Small dark lesions on leaves",
+            "Shot-hole appearance"
+        ],
+        "cause": "Bacterial infection",
+        "risk": "Wet and warm conditions increase spread"
+    },
+    "Peach___healthy": {
+        "symptoms": [
+            "Smooth green leaves with no lesions"
+        ],
+        "cause": "Healthy plant tissue",
+        "risk": "No disease risk detected"
+    },
+    "Pepper__bell___Bacterial_spot": {
+        "symptoms": [
+            "Water-soaked spots turning brown",
+            "Leaf drop in severe cases"
+        ],
+        "cause": "Bacterial infection",
+        "risk": "High humidity and rainfall"
+    },
+    "Pepper__bell___healthy": {
+        "symptoms": [
+            "Uniform green leaf color"
+        ],
+        "cause": "Healthy plant tissue",
+        "risk": "No disease risk detected"
+    },
+    "Potato___Early_blight": {
+        "symptoms": [
+            "Brown circular spots with concentric rings",
+            "Lower leaves affected first"
+        ],
+        "cause": "Fungal leaf disease",
+        "risk": "Warm and humid environments"
+    },
+    "Potato___Late_blight": {
+        "symptoms": [
+            "Large dark water-soaked lesions",
+            "Rapid leaf collapse"
+        ],
+        "cause": "Aggressive fungal-like pathogen",
+        "risk": "Cool and wet conditions"
+    },
+    "Potato___healthy": {
+        "symptoms": [
+            "Green healthy leaves"
+        ],
+        "cause": "Healthy plant tissue",
+        "risk": "No disease risk detected"
+    },
+    "Rice_Bacterial_Blight": {
+        "symptoms": [
+            "Yellowing from leaf tips",
+            "Wilting and drying of leaves"
+        ],
+        "cause": "Bacterial leaf disease",
+        "risk": "High rainfall and warm temperatures"
+    },
+    "Rice_Blast": {
+        "symptoms": [
+            "Diamond-shaped lesions with gray centers"
+        ],
+        "cause": "Fungal infection",
+        "risk": "Cool, humid conditions"
+    },
+    "Rice_Brown_Spot": {
+        "symptoms": [
+            "Brown circular spots on leaves"
+        ],
+        "cause": "Fungal leaf disease",
+        "risk": "Poor soil nutrition and humidity"
+    },
+    "Sorghum_Rust": {
+        "symptoms": [
+            "Reddish-brown pustules on leaves"
+        ],
+        "cause": "Fungal rust disease",
+        "risk": "Moist weather conditions"
+    },
+    "Sorghum_Anthracnose_Red_Rot": {
+        "symptoms": [
+            "Red lesions with dark margins",
+            "Leaf drying"
+        ],
+        "cause": "Fungal anthracnose disease",
+        "risk": "Warm and humid climate"
+    },
+    "Sorghum_Cereal_Grain_Molds": {
+        "symptoms": [
+            "Discolored grain and mold growth"
+        ],
+        "cause": "Fungal mold infection",
+        "risk": "High moisture during grain filling"
+    },
+    "Sorghum_Head_Smut": {
+        "symptoms": [
+            "Black powdery mass replacing grains"
+        ],
+        "cause": "Fungal smut disease",
+        "risk": "Warm soil temperatures"
+    },
+    "Sorghum_Loose_Smut": {
+        "symptoms": [
+            "Loose black spores in flower heads"
+        ],
+        "cause": "Seed-borne fungal disease",
+        "risk": "Favorable during flowering stage"
+    },
+    "Squash___Powdery_mildew": {
+        "symptoms": [
+            "White powdery patches on leaf surface"
+        ],
+        "cause": "Fungal powdery mildew infection",
+        "risk": "Dry weather with high humidity"
+    },
+    "Strawberry___Leaf_scorch": {
+        "symptoms": [
+            "Dark purple spots with scorched appearance"
+        ],
+        "cause": "Fungal leaf scorch disease",
+        "risk": "Warm and moist environments"
+    },
+    "Strawberry___healthy": {
+        "symptoms": [
+            "Healthy green leaves"
+        ],
+        "cause": "Healthy plant tissue",
+        "risk": "No disease risk detected"
+    },
+    "Tomato___Bacterial_spot": {
+        "symptoms": [
+            "Small dark lesions surrounded by yellow halos"
+        ],
+        "cause": "Bacterial infection",
+        "risk": "Warm and wet conditions"
+    },
+    "Tomato___Early_blight": {
+        "symptoms": [
+            "Brown spots with concentric rings"
+        ],
+        "cause": "Fungal leaf disease",
+        "risk": "High humidity"
+    },
+    "Tomato___Late_blight": {
+        "symptoms": [
+            "Large water-soaked lesions"
+        ],
+        "cause": "Fungal-like pathogen",
+        "risk": "Cool and wet weather"
+    },
+    "Tomato___Leaf_Mold": {
+        "symptoms": [
+            "Yellow patches on upper leaf surface",
+            "Olive-green mold underneath"
+        ],
+        "cause": "Fungal infection",
+        "risk": "High humidity"
+    },
+    "Tomato___Septoria_leaf_spot": {
+        "symptoms": [
+            "Small circular spots with dark borders"
+        ],
+        "cause": "Fungal leaf spot disease",
+        "risk": "Wet leaf surfaces"
+    },
+    "Tomato___Target_Spot": {
+        "symptoms": [
+            "Brown target-like lesions"
+        ],
+        "cause": "Fungal disease",
+        "risk": "Warm and humid conditions"
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "symptoms": [
+            "Upward leaf curling",
+            "Yellowing of leaves"
+        ],
+        "cause": "Viral disease transmitted by insects",
+        "risk": "High whitefly population"
+    },
+    "Tomato___Tomato_mosaic_virus": {
+        "symptoms": [
+            "Mosaic pattern of light and dark green"
+        ],
+        "cause": "Viral infection",
+        "risk": "Mechanical transmission"
+    },
+    "Tomato___Spider_mites_Two_spotted_spider_mite": {
+        "symptoms": [
+            "Fine webbing on leaves",
+            "Speckled yellow discoloration"
+        ],
+        "cause": "Pest infestation",
+        "risk": "Hot and dry conditions"
+    },
+    "Tomato___healthy": {
+        "symptoms": [
+            "Healthy green leaves"
+        ],
+        "cause": "Healthy plant tissue",
+        "risk": "No disease risk detected"
+    },
+    "Wheat_Brown_Rust": {
+        "symptoms": [
+            "Brown rust pustules on leaves"
+        ],
+        "cause": "Fungal rust disease",
+        "risk": "Warm and humid climate"
+    },
+    "Wheat_Yellow_Rust": {
+        "symptoms": [
+            "Yellow stripe-like pustules"
+        ],
+        "cause": "Fungal rust disease",
+        "risk": "Cool and moist conditions"
+    },
+    "Wheat_Septoria": {
+        "symptoms": [
+            "Irregular brown lesions with yellow margins"
+        ],
+        "cause": "Fungal leaf blotch disease",
+        "risk": "Prolonged wet weather"
+    },
+    "Wheat_Healthy": {
+        "symptoms": [
+            "Uniform green leaves"
+        ],
+        "cause": "Healthy plant tissue",
+        "risk": "No disease risk detected"
+    },
+    "Soybean___healthy": {
+        "symptoms": [
+            "Healthy green leaves"
+        ],
+        "cause": "Healthy plant tissue",
+        "risk": "No disease risk detected"
+    }
+}
