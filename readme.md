@@ -173,5 +173,4 @@ This training pipeline is the foundation. The goal is to extend it into a full d
 ---
 
 **Author:** **Karan Shakya**  
-B.Tech CSE (AI & ML) · NIET Greater Noida · AKTU  
 GitHub: [@theconquero-r](https://github.com/theconquero-r)
